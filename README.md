@@ -1,2 +1,2 @@
-# Genesisprich
+# Genesis
 First Project
